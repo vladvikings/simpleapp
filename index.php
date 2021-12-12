@@ -12,5 +12,6 @@
 	<h2>PHP Information</h2> 
 		<p> <?php phpinfo(); ?> </p> 
         <h2> HELLO FOLKS</h2>
+		<h1>That's all folks</h1>
 	</body> 
 </html>
